@@ -1,0 +1,2 @@
+*{box-sizing:border-box}*,body{padding:0;margin:0}.light{background-color:#ccc;color:#f50}.dark{background-color:#0a0909;color:gold}.footer,.header{margin-bottom:15px;padding:20px}.main{flex-grow:1}#root{display:flex;min-height:100vh;flex-direction:column}
+/*# sourceMappingURL=main.cdc6a3d6.chunk.css.map */
